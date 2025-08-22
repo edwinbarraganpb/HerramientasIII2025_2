@@ -1,0 +1,19 @@
+Create database TreatmentManagement;
+use TreatmentManagement;
+Create table tblPatient(
+	patientID varchar(12) primary key,
+	patientName varchar(100) not null,
+	patientLastName varchar(100) not null,
+	patientBirthday date not null,
+	patientGender varchar(1) not null
+);
+
+Create table tblTreatment(	
+	TreatmentID int primary key identity,
+	TreatmentPatientID varchar(12) not null,
+	TreatmentAssignmentDate date not null,
+	TreatmentStartDate date not null,
+	TreatmentEndDate date not null,
+	TreatmentObservations varchar(100),
+	foreign key (TreatmentPatientID) references tblPatient(patientID) 
+);
