@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ESTUDIANTE\\source\\repos\\GestionTratamientos\\Gestion Tratamientos\\Gestion Tratamientos\\Gestion Tratamientos.csproj": {}
+    "C:\\Users\\ESTUDIANTE\\Documents\\GitHub\\HerramientasIII2025_2\\GestionTratamientos\\Gestion Tratamientos\\Gestion Tratamientos\\Gestion Tratamientos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ESTUDIANTE\\source\\repos\\GestionTratamientos\\Gestion Tratamientos\\Gestion Tratamientos\\Gestion Tratamientos.csproj": {
+    "C:\\Users\\ESTUDIANTE\\Documents\\GitHub\\HerramientasIII2025_2\\GestionTratamientos\\Gestion Tratamientos\\Gestion Tratamientos\\Gestion Tratamientos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ESTUDIANTE\\source\\repos\\GestionTratamientos\\Gestion Tratamientos\\Gestion Tratamientos\\Gestion Tratamientos.csproj",
+        "projectUniqueName": "C:\\Users\\ESTUDIANTE\\Documents\\GitHub\\HerramientasIII2025_2\\GestionTratamientos\\Gestion Tratamientos\\Gestion Tratamientos\\Gestion Tratamientos.csproj",
         "projectName": "Gestion Tratamientos",
-        "projectPath": "C:\\Users\\ESTUDIANTE\\source\\repos\\GestionTratamientos\\Gestion Tratamientos\\Gestion Tratamientos\\Gestion Tratamientos.csproj",
+        "projectPath": "C:\\Users\\ESTUDIANTE\\Documents\\GitHub\\HerramientasIII2025_2\\GestionTratamientos\\Gestion Tratamientos\\Gestion Tratamientos\\Gestion Tratamientos.csproj",
         "packagesPath": "C:\\Users\\ESTUDIANTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ESTUDIANTE\\source\\repos\\GestionTratamientos\\Gestion Tratamientos\\Gestion Tratamientos\\obj\\",
+        "outputPath": "C:\\Users\\ESTUDIANTE\\Documents\\GitHub\\HerramientasIII2025_2\\GestionTratamientos\\Gestion Tratamientos\\Gestion Tratamientos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
